@@ -1,15 +1,11 @@
 # Portafolio  Web
 
-Portfolio to describe activities, projects and works who I made.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Portfolio que describe las actividades que he realizado como diseñador Web
 
 
 ## Built With
 
-* [Materialize](http://materializecss.com/) - Framework Usado
+* [Materialize](http://materializecss.com/) 
 * [fontAwesome](http://fontawesome.io/icons/) 
 
 
